@@ -1,0 +1,21 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
+#Getting and Cleaning Data 
+##Project 1
+###Matt Hanratty
+
+#Data Source
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+#Data Results
+A selection of 30 volunteers were used in an experiment in which they would be required 
+to complete six activities. These activities ranged from walking, walking upstairs, 
+walking downstairs, sitting, standing, and laying down. The data was collected by having
+each volunteer wear a Samsung Galaxy II smart phone near their waste. The device has built
+in technology that allows data to be captured regarding movement. The group was broken 
+into two sections, one comprised of 70% of the volunteers and the other the remaing 30%. 
+The group which accounted for 30% would be used to collect test data results and the 
+group which accounted for 70% would be used to collect training data results. 
